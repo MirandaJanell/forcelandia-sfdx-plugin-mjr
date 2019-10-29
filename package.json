@@ -88,10 +88,7 @@
     "lib": "lib",
     "test": "test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/thebrettbarlow/forcelandia-sfdx-plugin.git"
-  },
+  "repository": "git+https://github.com/MirandaJanell/forcelandia-sfdx-plugin-mjr.git",
   "bugs": {
     "url": "https://github.com/thebrettbarlow/forcelandia-sfdx-plugin/issues"
   },
